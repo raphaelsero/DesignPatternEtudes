@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\bin\Debug\net6.0\State.exe
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\bin\Debug\net6.0\State.deps.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\bin\Debug\net6.0\State.runtimeconfig.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\bin\Debug\net6.0\State.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\bin\Debug\net6.0\State.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.AssemblyInfo.cs
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\refint\State.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\State.genruntimeconfig.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\State\obj\Debug\net6.0\ref\State.dll

@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\bin\Debug\net6.0\Singleton.ThreadSafe.exe
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\bin\Debug\net6.0\Singleton.ThreadSafe.deps.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\bin\Debug\net6.0\Singleton.ThreadSafe.runtimeconfig.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\bin\Debug\net6.0\Singleton.ThreadSafe.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\bin\Debug\net6.0\Singleton.ThreadSafe.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.AssemblyInfo.cs
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\refint\Singleton.ThreadSafe.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\Singleton.ThreadSafe.genruntimeconfig.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Creational\Singleton.ThreadSafe\obj\Debug\net6.0\ref\Singleton.ThreadSafe.dll

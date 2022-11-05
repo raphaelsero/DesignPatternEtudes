@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\bin\Debug\net6.0\Memento.exe
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\bin\Debug\net6.0\Memento.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\bin\Debug\net6.0\Memento.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.pdb
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\Users\rapha\source\repos\DesignPatternEtudes\Behavioral\Memento\obj\Debug\net6.0\ref\Memento.dll
